@@ -28,6 +28,6 @@ respectively.
 
 ```xml
 ...
-<string>osascript "$HOME/Library/Scripts/darkness.scpt" 25200 64800</string>
+<string>osascript "$HOME/Library/Scripts/darkness.scpt" 64800 25200</string>
 ...
 ```

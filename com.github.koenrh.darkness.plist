@@ -10,8 +10,8 @@
     <array>
       <string>sh</string>
       <string>-c</string>
-      <!-- the second (25200) and third argument (64800) are the start and end time (in seconds) -->
-      <string>osascript "$HOME/Library/Scripts/darkness.scpt" 25200 64800 </string>
+      <!-- the second (64800) and third argument (25200) are the start and end time (in seconds) -->
+      <string>osascript "$HOME/Library/Scripts/darkness.scpt" 64800 25200</string>
     </array>
     <key>RunAtLoad</key>
     <true/>
